@@ -1,6 +1,6 @@
 # Multi-Class Image Classification with Deep CNN
 
-A comprehensive deep learning project that classifies natural images into 8 distinct categories using a custom Convolutional Neural Network, achieving **89.56% accuracy** on the test set.
+A comprehensive deep learning project that classifies natural images into 8 distinct categories using a custom Convolutional Neural Network- achieving **89.56% accuracy** on the test set.
 
 ![Multi-Class Classification](https://img.shields.io/badge/Accuracy-89.56%25-success)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow-orange)
